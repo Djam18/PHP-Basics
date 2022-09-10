@@ -7,6 +7,18 @@
     <title> PHP Data Types </title>
 </head>
 <body>
+    <p>Variables can store data of different types.PHP supports the following data types:</p>
+    <ul>
+    <li>String</li>
+    <li>Integer</li>
+    <li>Float (floating point numbers - also called double)</li>
+    <li>Boolean</li>
+    <li>Array</li>
+    <li>Object</li>
+    <li>NULL</li>
+    <li>Resource</li>
+    </ul>
+
     <?php
     $helloVariable = "Hello you!";
     $hello_variable = 'Hello you!';
