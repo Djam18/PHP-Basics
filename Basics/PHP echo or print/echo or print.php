@@ -7,6 +7,14 @@
     <title>Echo and Print</title>
 </head>
 <body>
-    
+    <div>
+    With PHP, there are two basic ways to get output: echo and print.
+    </div>
+    <?php
+        echo "<p>Hello!</p>";
+        echo "<p>My name is Barry Allen.</p> <p>I'm the fastest man alive.</p>";
+        print('<br/>');
+        print("I am solving some bugs");
+    ?>
 </body>
 </html>
